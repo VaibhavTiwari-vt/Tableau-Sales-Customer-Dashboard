@@ -253,7 +253,7 @@ Add Navigation Buttons & Year Filter
 
 ---
 
-## Autho
+## Author
 
 ```
 Vaibhav Tiwari
